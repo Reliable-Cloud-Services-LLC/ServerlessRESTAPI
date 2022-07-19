@@ -1,0 +1,8 @@
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/dynamodb/SavePersonHandler.java
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/dynamodb/bean/PersonResponse.java
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/dynamodb/bean/PersonRequest.java
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/LambdaRequestHandler.java
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/LambdaMethodHandler.java
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/apigateway/model/Person.java
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/LambdaRequestStreamHandler.java
+/Users/sihamdarr/rest/tutorials/aws-modules/aws-lambda/lambda/src/main/java/com/baeldung/lambda/apigateway/APIDemoHandler.java
